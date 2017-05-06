@@ -1,0 +1,10 @@
+9
+/sbin/getty /dev/tty1
+/sbin/getty /dev/tty2
+/sbin/getty /dev/tty3
+/sbin/getty /dev/tty4
+/sbin/getty /dev/tty5
+/sbin/getty /dev/tty6
+/sbin/getty /dev/tty7
+/sbin/getty /dev/tty8
+/sbin/getty /dev/tty9
