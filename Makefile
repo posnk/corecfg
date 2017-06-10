@@ -39,7 +39,7 @@ OBJS =
 #
 all:	
 
-install: $(BUILDDIR)init
+install: etc/rc etc/inittab etc/passwd etc/issue etc/group
 	install etc/rc $(DESTDIR)/etc/rc
 	install etc/inittab $(DESTDIR)/etc/inittab
 	install etc/passwd $(DESTDIR)/etc/passwd
